@@ -9,8 +9,8 @@ class TweepyHelper:
   # Twitter API Info
 
   APP_NAME="loserbot_1"
-  OWNER = "7Heads7Horns"
-  OWNER_ID = "3894487535"
+  OWNER = "[your name]"
+  OWNER_ID = "[your owner id["
   CALLBACK_URL = "http://127.0.0.1"
   TOKENS_FILE = "credentials.json"
   AUTH = None
